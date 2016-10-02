@@ -1,6 +1,6 @@
 {
-  "name": "react-telephone-input",
-  "version": "3.5.0",
+  "name": "react-tel-input",
+  "version": "3.4.8",
   "description": "React component for entering and validating international telephone numbers",
   "main": "lib/ReactTelephoneInput.js",
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mukeshsoni/react-telephone-input"
+    "url": "git remote add origin https://github.com/anilreddykatta/react-tel-input.git"
   },
   "keywords": [
     "react-component",
